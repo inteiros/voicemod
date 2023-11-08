@@ -2,7 +2,7 @@
 
 Real time voice modulator in python
 
-to run it simply do 
+to run it, install the packages if you don't already have them in your machine and then simply do 
 
 ```bash
 python voicemod.py
